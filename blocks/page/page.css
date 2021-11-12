@@ -3,4 +3,5 @@
     font-family: "Roboto", "Arial", sans-serif;
     width: 100%;
     color: #121920;
+    overflow-x: hidden;
 }
