@@ -6,5 +6,6 @@
     .header__user{
         display: flex;
         visibility: visible;
+        margin-right: 23px;
     }
 }
