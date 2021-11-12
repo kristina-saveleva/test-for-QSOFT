@@ -28,7 +28,7 @@
 
 @media screen and (max-width: 700px) {
     .header__input{
-        width: 375px;
+        width: 365px;
         border: none;
         padding-top: 0;
     }
