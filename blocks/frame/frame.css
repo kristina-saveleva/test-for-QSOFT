@@ -1,0 +1,9 @@
+.frame{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    background-color: white;
+    max-width: 1170px;
+    margin: 0 auto;
+}

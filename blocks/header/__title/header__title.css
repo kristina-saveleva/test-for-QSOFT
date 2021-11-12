@@ -1,0 +1,19 @@
+.header__title{
+    display: flex;
+    cursor: pointer;
+    height: 100%;
+    border-left: 1px solid #EBEBF1;
+}
+
+@media screen and (max-width: 768px) {
+    .header__title{
+        padding-right: 20px;
+        border-left: none;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .header__title{
+        display: none;
+    }
+}

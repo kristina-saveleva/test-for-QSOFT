@@ -1,0 +1,5 @@
+.header__icon{
+    position: absolute;
+    z-index: 1;
+    padding: 12px 9px 12px 14px;
+}

@@ -1,0 +1,19 @@
+.header__lang-link{
+    list-style-type: none;
+    display: grid;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    font-weight: normal;
+    margin: 0;
+    padding: 0 0 0.75rem;
+    grid-template-columns: repeat(2, min-content);
+    grid-template-rows: min-content;
+    grid-column-gap: 1.125rem;
+}
+
+@media screen and (max-width: 320px) {
+    .header__lang-link{
+        font-size: 1.125rem;
+        line-height: 1.25rem;
+    }
+}

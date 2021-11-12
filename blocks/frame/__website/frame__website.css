@@ -1,0 +1,18 @@
+.frame__website{
+    margin: 30px 30px 0 0;
+}
+
+.frame__website:nth-child(4) {
+    margin: 30px 0 0 0;
+}
+
+
+@media screen and (max-width: 1180px) {
+    .frame__website{
+        margin: 0 0 16px 20px;
+    }
+
+    .frame__website:nth-child(4) {
+        margin: 0 0 16px 20px;
+    }
+}

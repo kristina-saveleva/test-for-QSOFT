@@ -1,0 +1,10 @@
+.header__user{
+    display: none;
+}
+
+@media screen and (max-width: 700px) {
+    .header__user{
+        display: flex;
+        visibility: visible;
+    }
+}

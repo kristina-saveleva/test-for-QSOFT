@@ -1,0 +1,35 @@
+.header__input{
+    padding-left: 39px;
+    line-height: 16px;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    color: #BBC4D6;
+    height: 40px;
+    border: 1px solid #EBEBF1;
+    box-sizing: border-box;
+    border-radius: 5px;
+    position: relative;
+    padding-top: 3px;
+    width: 763px;
+    font-weight: normal;
+}
+
+@media screen and (max-width: 1070px) {
+    .header__input{
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header__input{
+        width: 344px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .header__input{
+        width: 375px;
+        border: none;
+        padding-top: 0;
+    }
+}
