@@ -9,3 +9,4 @@
 * HTML
 
 ## Ссылка на GitHub.pages:
+https://kristina-saveleva.github.io/test-for-QSOFT/
